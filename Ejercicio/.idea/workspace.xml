@@ -6,7 +6,236 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d1a8e11-3aef-474f-89bb-e39dd43bb4f7" name="Default Changelist" comment="" />
+    <list default="true" id="7d1a8e11-3aef-474f-89bb-e39dd43bb4f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/androidTest/java/cl/desafiolatam/android/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/java/cl/desafiolatam/android/HomeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/java/cl/desafiolatam/android/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/java/cl/desafiolatam/android/RegisterActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/app/src/test/java/cl/desafiolatam/android/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/androidTest/java/cl/desafiolatam/desafiopregunta/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/MainFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/api/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/api/RetrofitClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/models/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/java/cl/desafiolatam/desafiopregunta/models/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/drawable/ic_question_answer_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/layout/fragment_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/app/src/test/java/cl/desafiolatam/desafiopregunta/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafioPregunta/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafoSimpleWeather/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesafoSimpleWeather/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MiAplicacion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/androidTest/java/cl/desafiolatam/postresfitnes/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/java/cl/desafiolatam/postresfitnes/DataFitAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/java/cl/desafiolatam/postresfitnes/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/java/cl/desafiolatam/postresfitnes/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/java/cl/desafiolatam/postresfitnes/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/app/src/test/java/cl/desafiolatam/postresfitnes/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PostresFitnes/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/androidTest/java/cl/desafiolatam/preguntadinamica/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/Api.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/Desafio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/api/api/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/api/api/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/api/api/Retrofit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/api/api/RetrofitClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/ui/desafio3/Desafio3Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/java/cl/desafiolatam/preguntadinamica/ui/desafio3/Desafio3ViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/drawable/ic_question_answer_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/layout/desafio3_activity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/layout/desafio3_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/app/src/test/java/cl/desafiolatam/preguntadinamica/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PreguntaDinamica/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/androidTest/java/cl/desafiolatam/pruebadinamica/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/java/cl/desafiolatam/pruebadinamica/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/app/src/test/java/cl/desafiolatam/pruebadinamica/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PruebaDinamica/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desafioandroid1" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +246,7 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_29" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -25,16 +254,8 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/cl/desafiolatam/ejercicio/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
@@ -42,19 +263,11 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1Zs39AXm9u0X0fgglYbL9mHQ1h7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -92,8 +305,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -144,50 +355,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.2246596" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32569557" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Preview" weight="0.32980332" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/cl/desafiolatam/ejercicio/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

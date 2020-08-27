@@ -8,10 +8,10 @@ public class Question {
     private String difficulty;
     private String question;
 
-    @SerializedName ("correct_answer")
+    @SerializedName("correct_answer")
     private boolean correct_answer;
 
-    @SerializedName ("incorrect_answer")
+    @SerializedName("incorrect_answer")
     private boolean incorrect_answer;
 
     public String getCategory() {
@@ -73,5 +73,5 @@ public class Question {
                 ", incorrect_answer=" + incorrect_answer +
                 '}';
     }
-
+}
 

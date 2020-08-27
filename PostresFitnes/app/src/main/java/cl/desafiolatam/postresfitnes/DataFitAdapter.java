@@ -1,12 +1,19 @@
 package cl.desafiolatam.postresfitnes;
 
+import android.content.Context;
 import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class DataFitAdapter  extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+import java.util.List;
 
+public class DataFitAdapter  extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+private List<Recipe> recipes;
+public  DataFitAdapter(Context context, List<Recipe> recipes){
+    this.recipes = recipes;
+
+}
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
